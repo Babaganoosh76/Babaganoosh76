@@ -15,7 +15,7 @@
 <!--
 Website // <a href="https://amiller.space">amiller.space</a>
 Linkedin // <a href="https://www.linkedin.com/in/amiller5233/">linkedin.com/in/amiller5233</a>
-Email // <a href="mailto:amiller5233@gmail.com">amiller5233@gmail.com</a>
+Email // <a href="mailto:amiller5233@gmail.com?subject=Hi Adam, it's great to meet you!">amiller5233@gmail.com</a>
 -->
 
 <!--
