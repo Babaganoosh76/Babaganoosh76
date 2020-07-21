@@ -1,4 +1,22 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://amiller.space/static/logo_full.svg" alt="Adam Miller's Logo" width="700">
+  <br>
+  <b>Hi, I'm Adam! 👋🏼</b>
+</p>
+
+<p align="center">
+  Check out my links:
+  <br>
+  <a href="https://amiller.space">Eebsite</a>&ensp;//&ensp;
+  <a href="https://www.linkedin.com/in/amiller5233/">LinkedIn</a>&ensp;//&ensp;
+  <a href="mailto:amiller5233@gmail.com">Email</a>
+</p>
+
+<!--
+Website // <a href="https://amiller.space">amiller.space</a>
+Linkedin // <a href="https://www.linkedin.com/in/amiller5233/">linkedin.com/in/amiller5233</a>
+Email // <a href="mailto:amiller5233@gmail.com">amiller5233@gmail.com</a>
+-->
 
 <!--
 **Babaganoosh76/Babaganoosh76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
