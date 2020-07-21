@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://amiller.space/static/logo_full.svg" alt="Adam Miller's Logo" width="700">
+  <img src="https://amiller.space/static/logo_full.svg" alt="Adam Miller's Logo" width="600">
   <br>
   <b>Hi, I'm Adam! 👋🏼</b>
 </p>
@@ -7,7 +7,7 @@
 <p align="center">
   Check out my links:
   <br>
-  <a href="https://amiller.space">Eebsite</a>&ensp;//&ensp;
+  <a href="https://amiller.space">Website</a>&ensp;//&ensp;
   <a href="https://www.linkedin.com/in/amiller5233/">LinkedIn</a>&ensp;//&ensp;
   <a href="mailto:amiller5233@gmail.com">Email</a>
 </p>
