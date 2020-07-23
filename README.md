@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://amiller.space/static/logo_full.svg" alt="Adam Miller's Logo" width="600">
-  <br>
+  <img src="https://raw.githubusercontent.com/Babaganoosh76/Babaganoosh76/master/logo-variation.png" alt="Adam Miller's Logo" width="600">
+  <br><br><br>
   <b>Hi, I'm Adam! 👋🏼</b>
 </p>
 
